@@ -1,0 +1,158 @@
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\appsettings.json
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\ControlTower.staticwebassets.runtime.json
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\ControlTower.exe
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\ControlTower.deps.json
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\ControlTower.runtimeconfig.json
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\ControlTower.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\ControlTower.pdb
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\Humanizer.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\Npgsql.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\DAL.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\bin\Debug\net6.0\DAL.pdb
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\obj\Debug\net6.0\ControlTower.csproj.AssemblyReference.cache
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\obj\Debug\net6.0\ControlTower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\obj\Debug\net6.0\ControlTower.AssemblyInfoInputs.cache
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\obj\Debug\net6.0\ControlTower.AssemblyInfo.cs
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\obj\Debug\net6.0\ControlTower.csproj.CoreCompileInputs.cache
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\obj\Debug\net6.0\ControlTower.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\obj\Debug\net6.0\ControlTower.RazorAssemblyInfo.cache
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\obj\Debug\net6.0\ControlTower.RazorAssemblyInfo.cs
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\obj\Debug\net6.0\scopedcss\bundle\ControlTower.styles.css
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\obj\Debug\net6.0\scopedcss\projectbundle\ControlTower.bundle.scp.css
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\obj\Debug\net6.0\ControlTower.csproj.CopyComplete
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\obj\Debug\net6.0\ControlTower.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\obj\Debug\net6.0\refint\ControlTower.dll
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\obj\Debug\net6.0\ControlTower.pdb
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\obj\Debug\net6.0\ControlTower.genruntimeconfig.cache
+C:\Users\SSANOSO\Desktop\Proyectos DWS\Nueva carpeta\ControlTower-backDesa\ControlTower\obj\Debug\net6.0\ref\ControlTower.dll
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\obj\Debug\net6.0\ControlTower.csproj.AssemblyReference.cache
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\obj\Debug\net6.0\ControlTower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\obj\Debug\net6.0\ControlTower.AssemblyInfoInputs.cache
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\obj\Debug\net6.0\ControlTower.AssemblyInfo.cs
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\obj\Debug\net6.0\ControlTower.csproj.CoreCompileInputs.cache
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\obj\Debug\net6.0\ControlTower.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\obj\Debug\net6.0\ControlTower.RazorAssemblyInfo.cache
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\obj\Debug\net6.0\ControlTower.RazorAssemblyInfo.cs
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\obj\Debug\net6.0\ControlTower.dll
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\obj\Debug\net6.0\refint\ControlTower.dll
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\obj\Debug\net6.0\ControlTower.pdb
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\appsettings.json
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\ControlTower.staticwebassets.runtime.json
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\ControlTower.exe
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\ControlTower.deps.json
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\ControlTower.runtimeconfig.json
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\ControlTower.dll
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\ControlTower.pdb
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\Humanizer.dll
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\Npgsql.dll
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\DAL.dll
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\bin\Debug\net6.0\DAL.pdb
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\obj\Debug\net6.0\scopedcss\bundle\ControlTower.styles.css
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\obj\Debug\net6.0\scopedcss\projectbundle\ControlTower.bundle.scp.css
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\obj\Debug\net6.0\ControlTower.csproj.CopyComplete
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\obj\Debug\net6.0\ControlTower.genruntimeconfig.cache
+C:\Users\csi21-sdiapos\Desktop\vs2022-workspace\ControlTower\ControlTower\obj\Debug\net6.0\ref\ControlTower.dll
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\appsettings.json
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\ControlTower.staticwebassets.runtime.json
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\ControlTower.exe
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\ControlTower.deps.json
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\ControlTower.runtimeconfig.json
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\ControlTower.dll
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\ControlTower.pdb
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\Humanizer.dll
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\Npgsql.dll
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\DAL.dll
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\bin\Debug\net6.0\DAL.pdb
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\obj\Debug\net6.0\ControlTower.csproj.AssemblyReference.cache
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\obj\Debug\net6.0\ControlTower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\obj\Debug\net6.0\ControlTower.AssemblyInfoInputs.cache
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\obj\Debug\net6.0\ControlTower.AssemblyInfo.cs
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\obj\Debug\net6.0\ControlTower.csproj.CoreCompileInputs.cache
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\obj\Debug\net6.0\ControlTower.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\obj\Debug\net6.0\ControlTower.RazorAssemblyInfo.cache
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\obj\Debug\net6.0\ControlTower.RazorAssemblyInfo.cs
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\obj\Debug\net6.0\staticwebassets\msbuild.ControlTower.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\obj\Debug\net6.0\staticwebassets\msbuild.build.ControlTower.props
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ControlTower.props
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ControlTower.props
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\obj\Debug\net6.0\scopedcss\bundle\ControlTower.styles.css
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\obj\Debug\net6.0\scopedcss\projectbundle\ControlTower.bundle.scp.css
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\obj\Debug\net6.0\ControlTower.csproj.CopyComplete
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\obj\Debug\net6.0\ControlTower.dll
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\obj\Debug\net6.0\refint\ControlTower.dll
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\obj\Debug\net6.0\ControlTower.pdb
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\obj\Debug\net6.0\ControlTower.genruntimeconfig.cache
+C:\Users\javi\Desktop\proyextoTOCHO\ControlTower\ControlTower\obj\Debug\net6.0\ref\ControlTower.dll
